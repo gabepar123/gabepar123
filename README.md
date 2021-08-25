@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Undergraduate Student at Rutgers University, New Brunswick  🏫
-* Class Of 2023
+* Class Of 2023 🎓
 * Major in Computer Science 💻
 * Minor in Cognitive Science 🧠
 * Interested In Machine Learning & Software Development 🤖
