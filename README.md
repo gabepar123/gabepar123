@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Check out my GitHub Page!](https://gabepar123.github.io/)
 
 #### Undergraduate Student at Rutgers University, New Brunswick  🏫
 * Class Of 2023 🎓
@@ -6,6 +7,8 @@
 * Minor in Cognitive Science 🧠
 * Interested In Machine Learning & Software Development 🤖
 * Looking for Internships for Summer 2022 😃
+
+
 
 
 ❓ What are my **Top 3** languages?:
