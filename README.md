@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Check out my GitHub Page!](https://gabepar123.github.io/)
+
 
 #### Undergraduate Student at Rutgers University, New Brunswick  🏫
 * Class Of 2023 🎓
