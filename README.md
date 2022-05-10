@@ -18,6 +18,5 @@
 
 ✉️ Contact Me:
 * Email: gparente221@gmail.com
-* LinkedIn: https://www.linkedin.com/in/gabriel-parente-b219ab19a/
 
 ![See you Space Cowboy...](https://github.com/gabepar123/gabepar123/blob/main/space%20cowboy.jpg)
