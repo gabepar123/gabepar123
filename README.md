@@ -6,7 +6,6 @@
 * Major in Computer Science 💻
 * Minor in Cognitive Science 🧠
 * Interested In Machine Learning & Software Development 🤖
-* Looking for Internships for Summer 2022 😃
 
 
 
